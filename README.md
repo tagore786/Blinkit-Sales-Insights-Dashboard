@@ -1,6 +1,11 @@
 ## Project Title / Headline :
 Blinkit Sales Analytics: Interactive Dashboard Built with Power BI, PostgreSQL & Python.
 
+## Dashboard Previews
+
+### 🔵 Blinkit Sales Report  
+![Blinkit Dashboard](https://github.com/AnkitSingh06/Blinkit-Sales-Analysis/blob/main/Blinkit%20Dashboard.png)
+
 ## Short Description / Purpose :
 Built an end-to-end sales analysis dashboard for Blinkit using Power BI, PostgreSQL, Excel, and Python, showcasing KPIs like total sales, average rating, item categories, and outlet performance. Enabled dynamic filtering by outlet size, location, and item type to uncover business insights and support strategic decisions.
 
@@ -95,10 +100,7 @@ Enables selection by outlet location type, outlet size, and item type for detail
 
 
 
-## Dashboard Previews
 
-### 🔵 Blinkit Sales Report  
-![Blinkit Dashboard](https://github.com/AnkitSingh06/Blinkit-Sales-Analysis/blob/main/Blinkit%20Dashboard.png)
 
 
 
